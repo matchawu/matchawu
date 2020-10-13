@@ -2,6 +2,10 @@
 
 I'm a graduate student studying Deep Learning in National Chiao Tung University.
 
+## Research Fields
+- Deep Learning on Graphs
+- Adversarial Learning: Attack and Defense
+
 <!--
 **matchawu/matchawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
