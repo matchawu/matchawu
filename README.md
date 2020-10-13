@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a graduate student studying Deep Learning in National Chiao Tung University.
+
 <!--
 **matchawu/matchawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
