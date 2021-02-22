@@ -12,7 +12,7 @@ I'm a graduate student studying Deep Learning in National Chiao Tung University.
 
 ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/3-stats.svg)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11137192492&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11137192492&cover_image=true&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137192492&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11137192492&redirect=true)
 
 
 <!--
