@@ -1,5 +1,5 @@
 ### Hi there 👋
-![profile views](https://komarev.com/ghpvc/?username=matchawu) from 2/22/21
+![profile views](https://komarev.com/ghpvc/?username=matchawu) `from 2/22/21`
 
 I'm a graduate student studying Deep Learning in National Chiao Tung University.
 
