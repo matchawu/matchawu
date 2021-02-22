@@ -12,7 +12,9 @@ I'm a graduate student studying Deep Learning in National Chiao Tung University.
 
 ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/matchawu/matchawu/main/profile-summary-card-output/monokai/3-stats.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137192492&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11137192492&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11137192492&cover_image=true&theme=default)]]
+
+
 <!--
 **matchawu/matchawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
